@@ -2,4 +2,4 @@
 
 In the speech–to–text module, the user can choose between the **Modern Standard Arabic** language and the French language. The user can long-press on the microphone and speak or type a text message. The voice message will be transcribed to a text message using the google cloud API services. In the text-to-gloss module, the transcribed or typed text message is transcribed to a gloss. This module is not implemented yet. Finally, in the gloss–to-sign animation module, the avatar **Samia** is animated using Unity Engine.
 
-![enter image description here](./images/Screen Shot 2022-10-15 at 13.26.17.png)
+![enter image description here](https://github.com/AbdelMahm/Signy/blob/0eaaf4a2497feb505d912d4f03f8e182ca2127a6/images/Screen%20Shot%202022-10-15%20at%2013.26.17.png)
